@@ -1,0 +1,545 @@
+Cedula Cliente;Nombre Cliente;Edad;Género;Ubicación;Día;Mes;Año;Categoría Producto;Subcategoría Producto;Precio;Utilidad Producto;Cantidad Comprada
+10123456;Juan Pérez;26;M;Bogotá;5;4;2024;Accesorios;Camisas;49.99;20.00;1
+10234567;Ana Ramírez;32;F;Medellín;20;6;2024;Ropa Juvenil;Vestidos;89.50;35.80;2
+10345678;Pedro Hernández;41;M;Cali;15;7;2024;Vestidos;Pantalones;59.99;24.00;3
+10456789;Sofía González;28;F;Barranquilla;10;12;2024;Ropa de Dormir;Blusas;39.99;15.00;1
+10567890;Carlos Sánchez;35;M;Cartagena;18;3;2024;Uniformes;Playeras/T-Shirts;29.99;12.00;4
+10678901;Lucía López;30;F;Bucaramanga;22;5;2024;Pantalones;Faldas;49.99;20.00;1
+10789012;María Cárdenas;29;F;Santa Marta;25;8;2024;Ropa de Verano;Vestidos y faldas;19.99;8.00;2
+10890123;Luis Ramírez;45;M;Manizales;12;11;2024;Ropa de Trabajo;Ropa deportiva;79.99;32.00;1
+10901234;Pedro Martínez;38;M;Pereira;30;9;2024;Ropa de Dormir;Chamaras/Abrigos;119.99;48.00;1
+11012345;Ana González;27;F;Pasto;7;1;2024;Ropa de Dormir;Chamaras/Abrigos;109.99;44.00;1
+11223344;Mario Gómez;29;M;Bogotá;10;3;2024;Faldas;Camisas;54.99;22.00;2
+22334455;Laura Rodríguez;34;F;Medellín;17;5;2024;Deportes;Vestidos;95.50;38.00;1
+33445566;Camila López;27;F;Cali;12;8;2024;Ropa Formal;Vestidos y faldas;25.99;10.50;3
+44556677;Andrés Castro;40;M;Barranquilla;20;11;2024;Ropa de Baño;Pantalones;69.99;28.00;2
+55667788;Sara Martínez;30;F;Cartagena;5;4;2024;Ropa de Dormir;Blusas;35.50;14.50;1
+66778899;Diego Gutiérrez;22;M;Bogotá;15;6;2024;Abrigos;Ropa deportiva;75.99;30.00;4
+77889900;Natalia Jiménez;33;F;Medellín;8;2;2024;Ropa de Trabajo;Chamaras/Abrigos;115.99;46.40;1
+88990011;Alejandro Torres;45;M;Cali;25;9;2024;Ropa de Invierno;Trajes y blazers;200.00;80.00;1
+99001122;Daniela Pérez;28;F;Barranquilla;18;12;2024;Ropa de Verano;Faldas;49.99;20.00;3
+10011223;Carlos Suárez;35;M;Cartagena;13;7;2024;Vestidos;Playeras/T-Shirts;29.99;12.00;5
+12345678;Felipe Rodríguez;24;M;Bogotá;7;3;2024;Trajes;Playeras/T-Shirts;35.99;14.40;3
+87654321;Daniela Mejía;28;F;Medellín;15;5;2024;Ropa Formal;Vestidos;89.99;36.00;2
+34567890;Mateo Hernández;35;M;Cali;20;7;2024;Pantalones;Pantalones;75.50;30.20;1
+98765432;Valeria Torres;31;F;Barranquilla;12;11;2024;Accesorios;Faldas;45.50;18.50;2
+45678901;Santiago López;27;M;Cartagena;10;4;2024;Vestidos;Camisas;55.99;22.40;2
+56789012;Camila García;22;F;Bogotá;8;6;2024;Uniformes;Vestidos y faldas;29.50;12.00;1
+67890123;Laura Martínez;30;F;Medellín;25;8;2024;Ropa de Invierno;Blusas;39.99;15.99;3
+78901234;Sebastián Ramírez;45;M;Cali;19;12;2024;Shorts;Chamaras/Abrigos;120.00;48.00;1
+89012345;Mariana Suárez;40;F;Barranquilla;5;10;2024;Trajes;Ropa deportiva;70.50;28.20;4
+90123456;Diego González;32;M;Cartagena;14;2;2024;Pantalones;Sudaderas y hoodies;60.99;24.40;3
+11111111;Camila Ramírez;30;F;Bogotá;7;3;2024;Ropa de Invierno;Vestidos;89.99;36.00;1
+11111111;Camila Ramírez;30;F;Bogotá;12;3;2024;Accesorios;Blusas;39.99;15.99;2
+22222222;Juan Pérez;35;M;Medellín;5;4;2024;Ropa de Invierno;Pantalones;75.50;30.20;2
+22222222;Juan Pérez;35;M;Medellín;15;4;2024;Ropa Infantil;Camisas;55.99;22.40;1
+22222222;Juan Pérez;35;M;Medellín;25;4;2024;Trajes;Ropa deportiva;70.50;28.20;3
+33333333;Mariana Suárez;40;F;Cali;10;6;2024;Ropa de Invierno;Faldas;45.50;18.50;1
+33333333;Mariana Suárez;40;F;Cali;22;6;2024;Ropa de Invierno;Chamaras/Abrigos;120.00;48.00;1
+44444444;Diego López;29;M;Barranquilla;3;7;2024;Camisas;Playeras/T-Shirts;35.99;14.40;2
+44444444;Diego López;29;M;Barranquilla;12;7;2024;Ropa de Trabajo;Chamaras/Abrigos;150.00;60.00;1
+55555555;Natalia Torres;27;F;Cartagena;8;8;2024;Ropa de Invierno;Vestidos y faldas;29.50;12.00;1
+55555555;Natalia Torres;27;F;Cartagena;18;8;2024;Calzado;Blusas;39.99;15.99;1
+65432100;Valeria Hernández;28;F;Bogotá;5;2;2024;Ropa de Baño;Blusas;40.99;16.00;1
+12345009;Alejandro Gómez;34;M;Medellín;15;3;2024;Accesorios;Camisas;55.99;22.40;2
+98765432;Mariana López;30;F;Cali;22;4;2024;Deportes;Vestidos;89.50;35.80;1
+11223344;Diego Martínez;41;M;Barranquilla;10;6;2024;Ropa Casual;Pantalones;75.50;30.20;2
+44556677;Laura Ramírez;26;F;Cartagena;12;8;2024;Calzado;Chamaras/Abrigos;120.00;48.00;1
+55667788;Camila Torres;29;F;Bogotá;18;10;2024;Abrigos;Vestidos y faldas;29.50;12.00;1
+66778899;Pedro García;39;M;Medellín;8;11;2024;Ropa Formal;Ropa deportiva;70.50;28.20;3
+77889900;Valentina Pérez;31;F;Cali;25;9;2024;Accesorios;Faldas;49.99;20.00;2
+33445566;Sebastián Suárez;45;M;Barranquilla;30;12;2024;Vestidos;Playeras/T-Shirts;35.99;14.40;4
+88990011;Daniela Rodríguez;27;F;Cartagena;7;7;2024;Trajes;Blusas;39.99;15.99;3
+77788899;Andrés Rodríguez;32;M;Bogotá;3;2;2024;Ropa de Dormir;Trajes y blazers;199.99;80.00;1
+55566677;Valeria Hernández;27;F;Medellín;10;4;2024;Ropa Infantil;Chamaras/Abrigos;120.50;48.20;2
+12344321;Alejandro López;40;M;Cali;18;6;2024;Ropa de Baño;Pantalones;69.50;27.80;3
+88899900;Natalia Ramírez;30;F;Barranquilla;25;7;2024;Camisas;Vestidos;95.99;38.40;1
+11234455;Camila Torres;33;F;Cartagena;15;3;2024;Vestidos;Faldas;45.99;18.40;2
+66778899;Pedro Suárez;41;M;Bogotá;7;5;2024;Accesorios;Sudaderas y hoodies;59.99;24.00;4
+33445566;Diego Martínez;28;M;Medellín;20;8;2024;Shorts;Camisas;55.50;22.20;2
+55667788;Mariana López;36;F;Cali;12;9;2024;Ropa Juvenil;Ropa deportiva;80.00;32.00;1
+88990011;Laura Pérez;25;F;Barranquilla;30;10;2024;Shorts;Vestidos y faldas;29.99;12.00;3
+44556677;Alejandro Torres;29;M;Cartagena;18;11;2024;Ropa de Invierno;Playeras/T-Shirts;35.99;14.40;5
+23445566;Sofía Gutiérrez;31;F;Bogotá;12;3;2024;Trajes;Blusas;39.99;15.99;1
+77788899;Carlos Ramírez;39;M;Medellín;8;5;2024;Ropa Juvenil;Pantalones;75.50;30.20;3
+99887766;Santiago Gómez;34;M;Bogotá;5;1;2024;Ropa de Dormir;Camisas;49.99;20.00;2
+88776655;Valeria Castaño;28;F;Medellín;10;3;2024;Ropa de Invierno;Vestidos;89.99;36.00;1
+77665544;Pedro Morales;30;M;Cali;15;4;2024;Pantalones;Pantalones;79.50;31.80;3
+66554433;Natalia Ramírez;27;F;Barranquilla;18;6;2024;Shorts;Chamaras/Abrigos;120.99;48.40;2
+55443322;Mariana Torres;36;F;Cartagena;22;8;2024;Ropa Juvenil;Vestidos y faldas;29.50;12.00;1
+44332211;Alejandro Martínez;39;M;Bogotá;30;10;2024;Camisas;Ropa deportiva;75.50;30.20;4
+33221100;Diego Pérez;29;M;Medellín;12;12;2024;Accesorios;Chamaras/Abrigos;150.00;60.00;1
+22110099;Camila Suárez;31;F;Cali;25;5;2024;Ropa de Dormir;Faldas;45.99;18.40;3
+11009988;Juan López;32;M;Barranquilla;7;7;2024;Ropa de Verano;Playeras/T-Shirts;35.99;14.40;5
+998877;Laura Gutiérrez;27;F;Cartagena;18;11;2024;Ropa de Invierno;Blusas;39.99;15.99;2
+99887711;Luis Cárdenas;45;M;Bogotá;12;9;2024;Faldas;Pantalones;65.99;26.40;1
+88776622;Ana González;33;F;Medellín;22;3;2024;Pantalones;Chamaras/Abrigos;119.99;48.00;1
+12345670;José Morales;25;M;Bogotá;14;3;2024;Calzado;Trajes y blazers;199.99;80.00;1
+22334456;Laura Castaño;29;F;Medellín;22;4;2024;Abrigos;Vestidos;89.50;35.80;2
+33445567;Camila Ríos;31;F;Cali;18;5;2024;Deportes;Blusas;39.99;15.99;1
+44556678;Santiago López;35;M;Barranquilla;12;6;2024;Ropa Infantil;Pantalones;75.99;30.40;3
+55667789;Natalia Martínez;40;F;Cartagena;7;8;2024;Uniformes;Faldas;45.99;18.40;2
+66778890;Alejandro Torres;27;M;Bogotá;10;9;2024;Shorts;Chamaras/Abrigos;150.00;60.00;1
+77889901;Diego Pérez;22;M;Medellín;20;10;2024;Ropa de Dormir;Sudaderas y hoodies;55.99;22.40;4
+88990012;Mariana Gómez;33;F;Cali;25;11;2024;Accesorios;Chamaras/Abrigos;120.99;48.40;1
+99001123;Valeria Ramírez;28;F;Barranquilla;7;12;2024;Trajes;Vestidos y faldas;29.99;12.00;2
+10011234;Pedro Suárez;30;M;Cartagena;12;2;2024;Pantalones;Playeras/T-Shirts;35.99;14.40;3
+11012345;Laura Ríos;34;F;Bogotá;18;3;2024;Ropa de Invierno;Ropa deportiva;70.99;28.40;2
+12023456;Luis Cárdenas;45;M;Medellín;5;7;2024;Ropa Casual;Pantalones;85.50;34.20;1
+11112222;Sofía Martínez;28;F;Bogotá;3;2;2024;Camisas;Vestidos;79.99;32.00;2
+33334444;Andrés López;34;M;Medellín;7;4;2024;Ropa de Dormir;Pantalones;85.50;34.20;3
+55556666;Valeria Suárez;30;F;Cali;15;6;2024;Shorts;Blusas;39.99;16.00;1
+77778888;Diego Castaño;40;M;Barranquilla;22;8;2024;Ropa de Trabajo;Camisas;49.50;20.00;2
+99990000;Mariana Torres;31;F;Cartagena;12;10;2024;Ropa Infantil;Vestidos y faldas;25.99;10.40;1
+22221111;Pedro Hernández;29;M;Bogotá;18;5;2024;Accesorios;Sudaderas y hoodies;60.50;24.00;4
+44443333;Camila Gómez;32;F;Medellín;10;3;2024;Calzado;Chamaras/Abrigos;119.99;48.00;1
+66665555;Luis Rodríguez;45;M;Cali;25;9;2024;Camisas;Playeras/T-Shirts;35.50;14.00;5
+88887777;Natalia Pérez;26;F;Barranquilla;30;11;2024;Deportes;Ropa deportiva;75.99;30.40;2
+1111;Alejandro Torres;27;M;Cartagena;20;7;2024;Ropa Infantil;Trajes y blazers;199.99;80.00;1
+12121212;Mariana Gutiérrez;33;F;Bogotá;5;3;2024;Ropa de Trabajo;Faldas;50.00;20.00;1
+34343434;Juan Ramírez;38;M;Medellín;18;6;2024;Deportes;Chamaras/Abrigos;150.00;60.00;1
+10123456;Juan Pérez;26;M;Bogotá;5;4;2024;Ropa Formal;Camisas;49.99;20.00;1
+10234567;Ana Ramírez;32;F;Medellín;20;6;2024;Ropa Infantil;Vestidos;89.50;35.80;2
+10345678;Pedro Hernández;41;M;Cali;15;7;2024;Uniformes;Pantalones;59.99;24.00;3
+10456789;Sofía González;28;F;Barranquilla;10;12;2024;Faldas;Blusas;39.99;15.00;1
+10567890;Carlos Sánchez;35;M;Cartagena;18;3;2024;Trajes;Playeras/T-Shirts;29.99;12.00;4
+10678901;Lucía López;30;F;Bucaramanga;22;5;2024;Trajes;Faldas;49.99;20.00;1
+10789012;María Cárdenas;29;F;Santa Marta;25;8;2024;Faldas;Vestidos y faldas;19.99;8.00;2
+10890123;Luis Ramírez;45;M;Manizales;12;11;2024;Faldas;Ropa deportiva;79.99;32.00;1
+10901234;Pedro Martínez;38;M;Pereira;30;9;2024;Shorts;Chamaras/Abrigos;119.99;48.00;1
+11012345;Ana González;27;F;Pasto;7;1;2024;Ropa Casual;Chamaras/Abrigos;109.99;44.00;1
+11223344;Mario Gómez;29;M;Bogotá;10;3;2024;Uniformes;Camisas;54.99;22.00;2
+22334455;Laura Rodríguez;34;F;Medellín;17;5;2024;Calzado;Vestidos;95.50;38.00;1
+33445566;Camila López;27;F;Cali;12;8;2024;Shorts;Vestidos y faldas;25.99;10.50;3
+44556677;Andrés Castro;40;M;Barranquilla;20;11;2024;Vestidos;Pantalones;69.99;28.00;2
+55667788;Sara Martínez;30;F;Cartagena;5;4;2024;Abrigos;Blusas;35.50;14.50;1
+66778899;Diego Gutiérrez;22;M;Bogotá;15;6;2024;Abrigos;Ropa deportiva;75.99;30.00;4
+77889900;Natalia Jiménez;33;F;Medellín;8;2;2024;Ropa de Baño;Chamaras/Abrigos;115.99;46.40;1
+88990011;Alejandro Torres;45;M;Cali;25;9;2024;Ropa Casual;Trajes y blazers;200.00;80.00;1
+99001122;Daniela Pérez;28;F;Barranquilla;18;12;2024;Abrigos;Faldas;49.99;20.00;3
+10011223;Carlos Suárez;35;M;Cartagena;13;7;2024;Ropa Juvenil;Playeras/T-Shirts;29.99;12.00;5
+12345678;Felipe Rodríguez;24;M;Bogotá;7;3;2024;Shorts;Playeras/T-Shirts;35.99;14.40;3
+87654321;Daniela Mejía;28;F;Medellín;15;5;2024;Camisas;Vestidos;89.99;36.00;2
+34567890;Mateo Hernández;35;M;Cali;20;7;2024;Ropa de Invierno;Pantalones;75.50;30.20;1
+98765432;Valeria Torres;31;F;Barranquilla;12;11;2024;Ropa Infantil;Faldas;45.50;18.50;2
+45678901;Santiago López;27;M;Cartagena;10;4;2024;Trajes;Camisas;55.99;22.40;2
+56789012;Camila García;22;F;Bogotá;8;6;2024;Ropa de Verano;Vestidos y faldas;29.50;12.00;1
+67890123;Laura Martínez;30;F;Medellín;25;8;2024;Ropa de Invierno;Blusas;39.99;15.99;3
+78901234;Sebastián Ramírez;45;M;Cali;19;12;2024;Ropa Formal;Chamaras/Abrigos;120.00;48.00;1
+89012345;Mariana Suárez;40;F;Barranquilla;5;10;2024;Ropa de Dormir;Ropa deportiva;70.50;28.20;4
+90123456;Diego González;32;M;Cartagena;14;2;2024;Pantalones;Sudaderas y hoodies;60.99;24.40;3
+11111111;Camila Ramírez;30;F;Bogotá;7;3;2024;Ropa Formal;Vestidos;89.99;36.00;1
+11111111;Camila Ramírez;30;F;Bogotá;12;3;2024;Calzado;Blusas;39.99;15.99;2
+22222222;Juan Pérez;35;M;Medellín;5;4;2024;Faldas;Pantalones;75.50;30.20;2
+22222222;Juan Pérez;35;M;Medellín;15;4;2024;Vestidos;Camisas;55.99;22.40;1
+22222222;Juan Pérez;35;M;Medellín;25;4;2024;Ropa de Baño;Ropa deportiva;70.50;28.20;3
+33333333;Mariana Suárez;40;F;Cali;10;6;2024;Accesorios;Faldas;45.50;18.50;1
+33333333;Mariana Suárez;40;F;Cali;22;6;2024;Faldas;Chamaras/Abrigos;120.00;48.00;1
+44444444;Diego López;29;M;Barranquilla;3;7;2024;Camisas;Playeras/T-Shirts;35.99;14.40;2
+44444444;Diego López;29;M;Barranquilla;12;7;2024;Trajes;Chamaras/Abrigos;150.00;60.00;1
+55555555;Natalia Torres;27;F;Cartagena;8;8;2024;Calzado;Vestidos y faldas;29.50;12.00;1
+55555555;Natalia Torres;27;F;Cartagena;18;8;2024;Ropa Juvenil;Blusas;39.99;15.99;1
+65432100;Valeria Hernández;28;F;Bogotá;5;2;2024;Ropa de Trabajo;Blusas;40.99;16.00;1
+12345009;Alejandro Gómez;34;M;Medellín;15;3;2024;Ropa Formal;Camisas;55.99;22.40;2
+98765432;Mariana López;30;F;Cali;22;4;2024;Pantalones;Vestidos;89.50;35.80;1
+11223344;Diego Martínez;41;M;Barranquilla;10;6;2024;Ropa Casual;Pantalones;75.50;30.20;2
+44556677;Laura Ramírez;26;F;Cartagena;12;8;2024;Faldas;Chamaras/Abrigos;120.00;48.00;1
+55667788;Camila Torres;29;F;Bogotá;18;10;2024;Trajes;Vestidos y faldas;29.50;12.00;1
+66778899;Pedro García;39;M;Medellín;8;11;2024;Shorts;Ropa deportiva;70.50;28.20;3
+77889900;Valentina Pérez;31;F;Cali;25;9;2024;Ropa Juvenil;Faldas;49.99;20.00;2
+33445566;Sebastián Suárez;45;M;Barranquilla;30;12;2024;Ropa de Invierno;Playeras/T-Shirts;35.99;14.40;4
+88990011;Daniela Rodríguez;27;F;Cartagena;7;7;2024;Ropa Infantil;Blusas;39.99;15.99;3
+77788899;Andrés Rodríguez;32;M;Bogotá;3;2;2024;Accesorios;Trajes y blazers;199.99;80.00;1
+55566677;Valeria Hernández;27;F;Medellín;10;4;2024;Ropa de Invierno;Chamaras/Abrigos;120.50;48.20;2
+12344321;Alejandro López;40;M;Cali;18;6;2024;Ropa Casual;Pantalones;69.50;27.80;3
+88899900;Natalia Ramírez;30;F;Barranquilla;25;7;2024;Shorts;Vestidos;95.99;38.40;1
+11234455;Camila Torres;33;F;Cartagena;15;3;2024;Ropa de Dormir;Faldas;45.99;18.40;2
+66778899;Pedro Suárez;41;M;Bogotá;7;5;2024;Camisas;Sudaderas y hoodies;59.99;24.00;4
+33445566;Diego Martínez;28;M;Medellín;20;8;2024;Ropa de Verano;Camisas;55.50;22.20;2
+55667788;Mariana López;36;F;Cali;12;9;2024;Camisas;Ropa deportiva;80.00;32.00;1
+88990011;Laura Pérez;25;F;Barranquilla;30;10;2024;Ropa de Verano;Vestidos y faldas;29.99;12.00;3
+44556677;Alejandro Torres;29;M;Cartagena;18;11;2024;Uniformes;Playeras/T-Shirts;35.99;14.40;5
+23445566;Sofía Gutiérrez;31;F;Bogotá;12;3;2024;Uniformes;Blusas;39.99;15.99;1
+77788899;Carlos Ramírez;39;M;Medellín;8;5;2024;Ropa Infantil;Pantalones;75.50;30.20;3
+99887766;Santiago Gómez;34;M;Bogotá;5;1;2024;Ropa de Verano;Camisas;49.99;20.00;2
+88776655;Valeria Castaño;28;F;Medellín;10;3;2024;Pantalones;Vestidos;89.99;36.00;1
+77665544;Pedro Morales;30;M;Cali;15;4;2024;Ropa Formal;Pantalones;79.50;31.80;3
+66554433;Natalia Ramírez;27;F;Barranquilla;18;6;2024;Ropa de Verano;Chamaras/Abrigos;120.99;48.40;2
+55443322;Mariana Torres;36;F;Cartagena;22;8;2024;Ropa Infantil;Vestidos y faldas;29.50;12.00;1
+44332211;Alejandro Martínez;39;M;Bogotá;30;10;2024;Pantalones;Ropa deportiva;75.50;30.20;4
+33221100;Diego Pérez;29;M;Medellín;12;12;2024;Trajes;Chamaras/Abrigos;150.00;60.00;1
+22110099;Camila Suárez;31;F;Cali;25;5;2024;Faldas;Faldas;45.99;18.40;3
+11009988;Juan López;32;M;Barranquilla;7;7;2024;Ropa de Invierno;Playeras/T-Shirts;35.99;14.40;5
+998877;Laura Gutiérrez;27;F;Cartagena;18;11;2024;Trajes;Blusas;39.99;15.99;2
+99887711;Luis Cárdenas;45;M;Bogotá;12;9;2024;Ropa de Trabajo;Pantalones;65.99;26.40;1
+88776622;Ana González;33;F;Medellín;22;3;2024;Ropa de Baño;Chamaras/Abrigos;119.99;48.00;1
+12345670;José Morales;25;M;Bogotá;14;3;2024;Uniformes;Trajes y blazers;199.99;80.00;1
+22334456;Laura Castaño;29;F;Medellín;22;4;2024;Ropa de Invierno;Vestidos;89.50;35.80;2
+33445567;Camila Ríos;31;F;Cali;18;5;2024;Ropa Infantil;Blusas;39.99;15.99;1
+44556678;Santiago López;35;M;Barranquilla;12;6;2024;Ropa de Invierno;Pantalones;75.99;30.40;3
+55667789;Natalia Martínez;40;F;Cartagena;7;8;2024;Deportes;Faldas;45.99;18.40;2
+66778890;Alejandro Torres;27;M;Bogotá;10;9;2024;Accesorios;Chamaras/Abrigos;150.00;60.00;1
+77889901;Diego Pérez;22;M;Medellín;20;10;2024;Ropa Juvenil;Sudaderas y hoodies;55.99;22.40;4
+88990012;Mariana Gómez;33;F;Cali;25;11;2024;Deportes;Chamaras/Abrigos;120.99;48.40;1
+99001123;Valeria Ramírez;28;F;Barranquilla;7;12;2024;Uniformes;Vestidos y faldas;29.99;12.00;2
+10011234;Pedro Suárez;30;M;Cartagena;12;2;2024;Trajes;Playeras/T-Shirts;35.99;14.40;3
+11012345;Laura Ríos;34;F;Bogotá;18;3;2024;Ropa de Verano;Ropa deportiva;70.99;28.40;2
+12023456;Luis Cárdenas;45;M;Medellín;5;7;2024;Pantalones;Pantalones;85.50;34.20;1
+11112222;Sofía Martínez;28;F;Bogotá;3;2;2024;Shorts;Vestidos;79.99;32.00;2
+33334444;Andrés López;34;M;Medellín;7;4;2024;Faldas;Pantalones;85.50;34.20;3
+55556666;Valeria Suárez;30;F;Cali;15;6;2024;Ropa Formal;Blusas;39.99;16.00;1
+77778888;Diego Castaño;40;M;Barranquilla;22;8;2024;Vestidos;Camisas;49.50;20.00;2
+99990000;Mariana Torres;31;F;Cartagena;12;10;2024;Vestidos;Vestidos y faldas;25.99;10.40;1
+22221111;Pedro Hernández;29;M;Bogotá;18;5;2024;Vestidos;Sudaderas y hoodies;60.50;24.00;4
+44443333;Camila Gómez;32;F;Medellín;10;3;2024;Calzado;Chamaras/Abrigos;119.99;48.00;1
+66665555;Luis Rodríguez;45;M;Cali;25;9;2024;Ropa de Dormir;Playeras/T-Shirts;35.50;14.00;5
+88887777;Natalia Pérez;26;F;Barranquilla;30;11;2024;Pantalones;Ropa deportiva;75.99;30.40;2
+1111;Alejandro Torres;27;M;Cartagena;20;7;2024;Pantalones;Trajes y blazers;199.99;80.00;1
+12121212;Mariana Gutiérrez;33;F;Bogotá;5;3;2024;Trajes;Faldas;50.00;20.00;1
+34343434;Juan Ramírez;38;M;Medellín;18;6;2024;Deportes;Chamaras/Abrigos;150.00;60.00;1
+10123456;Juan Pérez;26;M;Bogotá;5;4;2024;Uniformes;Camisas;49.99;20.00;1
+10234567;Ana Ramírez;32;F;Medellín;20;6;2024;Faldas;Vestidos;89.50;35.80;2
+10345678;Pedro Hernández;41;M;Cali;15;7;2024;Ropa Casual;Pantalones;59.99;24.00;3
+10456789;Sofía González;28;F;Barranquilla;10;12;2024;Ropa de Invierno;Blusas;39.99;15.00;1
+10567890;Carlos Sánchez;35;M;Cartagena;18;3;2024;Vestidos;Playeras/T-Shirts;29.99;12.00;4
+10678901;Lucía López;30;F;Bucaramanga;22;5;2024;Uniformes;Faldas;49.99;20.00;1
+10789012;María Cárdenas;29;F;Santa Marta;25;8;2024;Ropa Formal;Vestidos y faldas;19.99;8.00;2
+10890123;Luis Ramírez;45;M;Manizales;12;11;2024;Ropa de Trabajo;Ropa deportiva;79.99;32.00;1
+10901234;Pedro Martínez;38;M;Pereira;30;9;2024;Faldas;Chamaras/Abrigos;119.99;48.00;1
+11012345;Ana González;27;F;Pasto;7;1;2024;Calzado;Chamaras/Abrigos;109.99;44.00;1
+11223344;Mario Gómez;29;M;Bogotá;10;3;2024;Ropa de Verano;Camisas;54.99;22.00;2
+22334455;Laura Rodríguez;34;F;Medellín;17;5;2024;Ropa de Baño;Vestidos;95.50;38.00;1
+33445566;Camila López;27;F;Cali;12;8;2024;Deportes;Vestidos y faldas;25.99;10.50;3
+44556677;Andrés Castro;40;M;Barranquilla;20;11;2024;Abrigos;Pantalones;69.99;28.00;2
+55667788;Sara Martínez;30;F;Cartagena;5;4;2024;Faldas;Blusas;35.50;14.50;1
+66778899;Diego Gutiérrez;22;M;Bogotá;15;6;2024;Vestidos;Ropa deportiva;75.99;30.00;4
+77889900;Natalia Jiménez;33;F;Medellín;8;2;2024;Vestidos;Chamaras/Abrigos;115.99;46.40;1
+88990011;Alejandro Torres;45;M;Cali;25;9;2024;Faldas;Trajes y blazers;200.00;80.00;1
+99001122;Daniela Pérez;28;F;Barranquilla;18;12;2024;Ropa de Invierno;Faldas;49.99;20.00;3
+10011223;Carlos Suárez;35;M;Cartagena;13;7;2024;Ropa de Baño;Playeras/T-Shirts;29.99;12.00;5
+12345678;Felipe Rodríguez;24;M;Bogotá;7;3;2024;Deportes;Playeras/T-Shirts;35.99;14.40;3
+87654321;Daniela Mejía;28;F;Medellín;15;5;2024;Ropa Formal;Vestidos;89.99;36.00;2
+34567890;Mateo Hernández;35;M;Cali;20;7;2024;Abrigos;Pantalones;75.50;30.20;1
+98765432;Valeria Torres;31;F;Barranquilla;12;11;2024;Abrigos;Faldas;45.50;18.50;2
+45678901;Santiago López;27;M;Cartagena;10;4;2024;Ropa de Baño;Camisas;55.99;22.40;2
+56789012;Camila García;22;F;Bogotá;8;6;2024;Pantalones;Vestidos y faldas;29.50;12.00;1
+67890123;Laura Martínez;30;F;Medellín;25;8;2024;Calzado;Blusas;39.99;15.99;3
+78901234;Sebastián Ramírez;45;M;Cali;19;12;2024;Ropa de Trabajo;Chamaras/Abrigos;120.00;48.00;1
+89012345;Mariana Suárez;40;F;Barranquilla;5;10;2024;Ropa de Verano;Ropa deportiva;70.50;28.20;4
+90123456;Diego González;32;M;Cartagena;14;2;2024;Ropa Formal;Sudaderas y hoodies;60.99;24.40;3
+11111111;Camila Ramírez;30;F;Bogotá;7;3;2024;Ropa de Dormir;Vestidos;89.99;36.00;1
+11111111;Camila Ramírez;30;F;Bogotá;12;3;2024;Ropa Juvenil;Blusas;39.99;15.99;2
+22222222;Juan Pérez;35;M;Medellín;5;4;2024;Ropa Juvenil;Pantalones;75.50;30.20;2
+22222222;Juan Pérez;35;M;Medellín;15;4;2024;Uniformes;Camisas;55.99;22.40;1
+22222222;Juan Pérez;35;M;Medellín;25;4;2024;Ropa de Invierno;Ropa deportiva;70.50;28.20;3
+33333333;Mariana Suárez;40;F;Cali;10;6;2024;Trajes;Faldas;45.50;18.50;1
+33333333;Mariana Suárez;40;F;Cali;22;6;2024;Ropa de Trabajo;Chamaras/Abrigos;120.00;48.00;1
+44444444;Diego López;29;M;Barranquilla;3;7;2024;Camisas;Playeras/T-Shirts;35.99;14.40;2
+44444444;Diego López;29;M;Barranquilla;12;7;2024;Ropa Juvenil;Chamaras/Abrigos;150.00;60.00;1
+55555555;Natalia Torres;27;F;Cartagena;8;8;2024;Faldas;Vestidos y faldas;29.50;12.00;1
+55555555;Natalia Torres;27;F;Cartagena;18;8;2024;Deportes;Blusas;39.99;15.99;1
+65432100;Valeria Hernández;28;F;Bogotá;5;2;2024;Pantalones;Blusas;40.99;16.00;1
+12345009;Alejandro Gómez;34;M;Medellín;15;3;2024;Calzado;Camisas;55.99;22.40;2
+98765432;Mariana López;30;F;Cali;22;4;2024;Ropa Juvenil;Vestidos;89.50;35.80;1
+11223344;Diego Martínez;41;M;Barranquilla;10;6;2024;Faldas;Pantalones;75.50;30.20;2
+44556677;Laura Ramírez;26;F;Cartagena;12;8;2024;Shorts;Chamaras/Abrigos;120.00;48.00;1
+55667788;Camila Torres;29;F;Bogotá;18;10;2024;Ropa de Invierno;Vestidos y faldas;29.50;12.00;1
+66778899;Pedro García;39;M;Medellín;8;11;2024;Pantalones;Ropa deportiva;70.50;28.20;3
+77889900;Valentina Pérez;31;F;Cali;25;9;2024;Ropa de Trabajo;Faldas;49.99;20.00;2
+33445566;Sebastián Suárez;45;M;Barranquilla;30;12;2024;Accesorios;Playeras/T-Shirts;35.99;14.40;4
+88990011;Daniela Rodríguez;27;F;Cartagena;7;7;2024;Trajes;Blusas;39.99;15.99;3
+77788899;Andrés Rodríguez;32;M;Bogotá;3;2;2024;Vestidos;Trajes y blazers;199.99;80.00;1
+55566677;Valeria Hernández;27;F;Medellín;10;4;2024;Ropa Formal;Chamaras/Abrigos;120.50;48.20;2
+12344321;Alejandro López;40;M;Cali;18;6;2024;Ropa Juvenil;Pantalones;69.50;27.80;3
+88899900;Natalia Ramírez;30;F;Barranquilla;25;7;2024;Vestidos;Vestidos;95.99;38.40;1
+11234455;Camila Torres;33;F;Cartagena;15;3;2024;Ropa de Baño;Faldas;45.99;18.40;2
+66778899;Pedro Suárez;41;M;Bogotá;7;5;2024;Pantalones;Sudaderas y hoodies;59.99;24.00;4
+33445566;Diego Martínez;28;M;Medellín;20;8;2024;Uniformes;Camisas;55.50;22.20;2
+55667788;Mariana López;36;F;Cali;12;9;2024;Accesorios;Ropa deportiva;80.00;32.00;1
+88990011;Laura Pérez;25;F;Barranquilla;30;10;2024;Pantalones;Vestidos y faldas;29.99;12.00;3
+44556677;Alejandro Torres;29;M;Cartagena;18;11;2024;Ropa de Verano;Playeras/T-Shirts;35.99;14.40;5
+23445566;Sofía Gutiérrez;31;F;Bogotá;12;3;2024;Abrigos;Blusas;39.99;15.99;1
+77788899;Carlos Ramírez;39;M;Medellín;8;5;2024;Pantalones;Pantalones;75.50;30.20;3
+99887766;Santiago Gómez;34;M;Bogotá;5;1;2024;Trajes;Camisas;49.99;20.00;2
+88776655;Valeria Castaño;28;F;Medellín;10;3;2024;Ropa de Baño;Vestidos;89.99;36.00;1
+77665544;Pedro Morales;30;M;Cali;15;4;2024;Shorts;Pantalones;79.50;31.80;3
+66554433;Natalia Ramírez;27;F;Barranquilla;18;6;2024;Calzado;Chamaras/Abrigos;120.99;48.40;2
+55443322;Mariana Torres;36;F;Cartagena;22;8;2024;Vestidos;Vestidos y faldas;29.50;12.00;1
+44332211;Alejandro Martínez;39;M;Bogotá;30;10;2024;Abrigos;Ropa deportiva;75.50;30.20;4
+33221100;Diego Pérez;29;M;Medellín;12;12;2024;Ropa de Invierno;Chamaras/Abrigos;150.00;60.00;1
+22110099;Camila Suárez;31;F;Cali;25;5;2024;Pantalones;Faldas;45.99;18.40;3
+11009988;Juan López;32;M;Barranquilla;7;7;2024;Ropa de Baño;Playeras/T-Shirts;35.99;14.40;5
+998877;Laura Gutiérrez;27;F;Cartagena;18;11;2024;Abrigos;Blusas;39.99;15.99;2
+99887711;Luis Cárdenas;45;M;Bogotá;12;9;2024;Ropa de Trabajo;Pantalones;65.99;26.40;1
+88776622;Ana González;33;F;Medellín;22;3;2024;Shorts;Chamaras/Abrigos;119.99;48.00;1
+12345670;José Morales;25;M;Bogotá;14;3;2024;Ropa Casual;Trajes y blazers;199.99;80.00;1
+22334456;Laura Castaño;29;F;Medellín;22;4;2024;Ropa de Dormir;Vestidos;89.50;35.80;2
+33445567;Camila Ríos;31;F;Cali;18;5;2024;Trajes;Blusas;39.99;15.99;1
+44556678;Santiago López;35;M;Barranquilla;12;6;2024;Shorts;Pantalones;75.99;30.40;3
+55667789;Natalia Martínez;40;F;Cartagena;7;8;2024;Ropa de Trabajo;Faldas;45.99;18.40;2
+66778890;Alejandro Torres;27;M;Bogotá;10;9;2024;Calzado;Chamaras/Abrigos;150.00;60.00;1
+77889901;Diego Pérez;22;M;Medellín;20;10;2024;Ropa de Baño;Sudaderas y hoodies;55.99;22.40;4
+88990012;Mariana Gómez;33;F;Cali;25;11;2024;Ropa Casual;Chamaras/Abrigos;120.99;48.40;1
+99001123;Valeria Ramírez;28;F;Barranquilla;7;12;2024;Ropa de Baño;Vestidos y faldas;29.99;12.00;2
+10011234;Pedro Suárez;30;M;Cartagena;12;2;2024;Deportes;Playeras/T-Shirts;35.99;14.40;3
+11012345;Laura Ríos;34;F;Bogotá;18;3;2024;Calzado;Ropa deportiva;70.99;28.40;2
+12023456;Luis Cárdenas;45;M;Medellín;5;7;2024;Shorts;Pantalones;85.50;34.20;1
+11112222;Sofía Martínez;28;F;Bogotá;3;2;2024;Deportes;Vestidos;79.99;32.00;2
+33334444;Andrés López;34;M;Medellín;7;4;2024;Faldas;Pantalones;85.50;34.20;3
+55556666;Valeria Suárez;30;F;Cali;15;6;2024;Ropa de Trabajo;Blusas;39.99;16.00;1
+77778888;Diego Castaño;40;M;Barranquilla;22;8;2024;Camisas;Camisas;49.50;20.00;2
+99990000;Mariana Torres;31;F;Cartagena;12;10;2024;Ropa Casual;Vestidos y faldas;25.99;10.40;1
+22221111;Pedro Hernández;29;M;Bogotá;18;5;2024;Ropa Formal;Sudaderas y hoodies;60.50;24.00;4
+44443333;Camila Gómez;32;F;Medellín;10;3;2024;Faldas;Chamaras/Abrigos;119.99;48.00;1
+66665555;Luis Rodríguez;45;M;Cali;25;9;2024;Ropa de Invierno;Playeras/T-Shirts;35.50;14.00;5
+88887777;Natalia Pérez;26;F;Barranquilla;30;11;2024;Ropa Juvenil;Ropa deportiva;75.99;30.40;2
+1111;Alejandro Torres;27;M;Cartagena;20;7;2024;Uniformes;Trajes y blazers;199.99;80.00;1
+12121212;Mariana Gutiérrez;33;F;Bogotá;5;3;2024;Abrigos;Faldas;50.00;20.00;1
+34343434;Juan Ramírez;38;M;Medellín;18;6;2024;Deportes;Chamaras/Abrigos;150.00;60.00;1
+10123456;Juan Pérez;26;M;Bogotá;5;4;2024;Trajes;Camisas;49.99;20.00;1
+10234567;Ana Ramírez;32;F;Medellín;20;6;2024;Trajes;Vestidos;89.50;35.80;2
+10345678;Pedro Hernández;41;M;Cali;15;7;2024;Ropa Infantil;Pantalones;59.99;24.00;3
+10456789;Sofía González;28;F;Barranquilla;10;12;2024;Shorts;Blusas;39.99;15.00;1
+10567890;Carlos Sánchez;35;M;Cartagena;18;3;2024;Camisas;Playeras/T-Shirts;29.99;12.00;4
+10678901;Lucía López;30;F;Bucaramanga;22;5;2024;Ropa de Verano;Faldas;49.99;20.00;1
+10789012;María Cárdenas;29;F;Santa Marta;25;8;2024;Abrigos;Vestidos y faldas;19.99;8.00;2
+10890123;Luis Ramírez;45;M;Manizales;12;11;2024;Ropa de Dormir;Ropa deportiva;79.99;32.00;1
+10901234;Pedro Martínez;38;M;Pereira;30;9;2024;Pantalones;Chamaras/Abrigos;119.99;48.00;1
+11012345;Ana González;27;F;Pasto;7;1;2024;Ropa de Trabajo;Chamaras/Abrigos;109.99;44.00;1
+11223344;Mario Gómez;29;M;Bogotá;10;3;2024;Ropa Infantil;Camisas;54.99;22.00;2
+22334455;Laura Rodríguez;34;F;Medellín;17;5;2024;Ropa de Trabajo;Vestidos;95.50;38.00;1
+33445566;Camila López;27;F;Cali;12;8;2024;Deportes;Vestidos y faldas;25.99;10.50;3
+44556677;Andrés Castro;40;M;Barranquilla;20;11;2024;Ropa Infantil;Pantalones;69.99;28.00;2
+55667788;Sara Martínez;30;F;Cartagena;5;4;2024;Faldas;Blusas;35.50;14.50;1
+66778899;Diego Gutiérrez;22;M;Bogotá;15;6;2024;Ropa Casual;Ropa deportiva;75.99;30.00;4
+77889900;Natalia Jiménez;33;F;Medellín;8;2;2024;Camisas;Chamaras/Abrigos;115.99;46.40;1
+88990011;Alejandro Torres;45;M;Cali;25;9;2024;Accesorios;Trajes y blazers;200.00;80.00;1
+99001122;Daniela Pérez;28;F;Barranquilla;18;12;2024;Accesorios;Faldas;49.99;20.00;3
+10011223;Carlos Suárez;35;M;Cartagena;13;7;2024;Camisas;Playeras/T-Shirts;29.99;12.00;5
+12345678;Felipe Rodríguez;24;M;Bogotá;7;3;2024;Deportes;Playeras/T-Shirts;35.99;14.40;3
+87654321;Daniela Mejía;28;F;Medellín;15;5;2024;Calzado;Vestidos;89.99;36.00;2
+34567890;Mateo Hernández;35;M;Cali;20;7;2024;Ropa Infantil;Pantalones;75.50;30.20;1
+98765432;Valeria Torres;31;F;Barranquilla;12;11;2024;Deportes;Faldas;45.50;18.50;2
+45678901;Santiago López;27;M;Cartagena;10;4;2024;Trajes;Camisas;55.99;22.40;2
+56789012;Camila García;22;F;Bogotá;8;6;2024;Uniformes;Vestidos y faldas;29.50;12.00;1
+67890123;Laura Martínez;30;F;Medellín;25;8;2024;Vestidos;Blusas;39.99;15.99;3
+78901234;Sebastián Ramírez;45;M;Cali;19;12;2024;Calzado;Chamaras/Abrigos;120.00;48.00;1
+89012345;Mariana Suárez;40;F;Barranquilla;5;10;2024;Calzado;Ropa deportiva;70.50;28.20;4
+90123456;Diego González;32;M;Cartagena;14;2;2024;Camisas;Sudaderas y hoodies;60.99;24.40;3
+11111111;Camila Ramírez;30;F;Bogotá;7;3;2024;Deportes;Vestidos;89.99;36.00;1
+11111111;Camila Ramírez;30;F;Bogotá;12;3;2024;Uniformes;Blusas;39.99;15.99;2
+22222222;Juan Pérez;35;M;Medellín;5;4;2024;Vestidos;Pantalones;75.50;30.20;2
+22222222;Juan Pérez;35;M;Medellín;15;4;2024;Deportes;Camisas;55.99;22.40;1
+22222222;Juan Pérez;35;M;Medellín;25;4;2024;Shorts;Ropa deportiva;70.50;28.20;3
+33333333;Mariana Suárez;40;F;Cali;10;6;2024;Ropa de Verano;Faldas;45.50;18.50;1
+33333333;Mariana Suárez;40;F;Cali;22;6;2024;Faldas;Chamaras/Abrigos;120.00;48.00;1
+44444444;Diego López;29;M;Barranquilla;3;7;2024;Uniformes;Playeras/T-Shirts;35.99;14.40;2
+44444444;Diego López;29;M;Barranquilla;12;7;2024;Ropa de Trabajo;Chamaras/Abrigos;150.00;60.00;1
+55555555;Natalia Torres;27;F;Cartagena;8;8;2024;Ropa Formal;Vestidos y faldas;29.50;12.00;1
+55555555;Natalia Torres;27;F;Cartagena;18;8;2024;Ropa Formal;Blusas;39.99;15.99;1
+65432100;Valeria Hernández;28;F;Bogotá;5;2;2024;Ropa Juvenil;Blusas;40.99;16.00;1
+12345009;Alejandro Gómez;34;M;Medellín;15;3;2024;Pantalones;Camisas;55.99;22.40;2
+98765432;Mariana López;30;F;Cali;22;4;2024;Accesorios;Vestidos;89.50;35.80;1
+11223344;Diego Martínez;41;M;Barranquilla;10;6;2024;Uniformes;Pantalones;75.50;30.20;2
+44556677;Laura Ramírez;26;F;Cartagena;12;8;2024;Camisas;Chamaras/Abrigos;120.00;48.00;1
+55667788;Camila Torres;29;F;Bogotá;18;10;2024;Ropa Casual;Vestidos y faldas;29.50;12.00;1
+66778899;Pedro García;39;M;Medellín;8;11;2024;Trajes;Ropa deportiva;70.50;28.20;3
+77889900;Valentina Pérez;31;F;Cali;25;9;2024;Calzado;Faldas;49.99;20.00;2
+33445566;Sebastián Suárez;45;M;Barranquilla;30;12;2024;Ropa de Trabajo;Playeras/T-Shirts;35.99;14.40;4
+88990011;Daniela Rodríguez;27;F;Cartagena;7;7;2024;Shorts;Blusas;39.99;15.99;3
+77788899;Andrés Rodríguez;32;M;Bogotá;3;2;2024;Deportes;Trajes y blazers;199.99;80.00;1
+55566677;Valeria Hernández;27;F;Medellín;10;4;2024;Ropa Casual;Chamaras/Abrigos;120.50;48.20;2
+12344321;Alejandro López;40;M;Cali;18;6;2024;Ropa Juvenil;Pantalones;69.50;27.80;3
+88899900;Natalia Ramírez;30;F;Barranquilla;25;7;2024;Shorts;Vestidos;95.99;38.40;1
+11234455;Camila Torres;33;F;Cartagena;15;3;2024;Camisas;Faldas;45.99;18.40;2
+66778899;Pedro Suárez;41;M;Bogotá;7;5;2024;Ropa de Dormir;Sudaderas y hoodies;59.99;24.00;4
+33445566;Diego Martínez;28;M;Medellín;20;8;2024;Camisas;Camisas;55.50;22.20;2
+55667788;Mariana López;36;F;Cali;12;9;2024;Ropa de Baño;Ropa deportiva;80.00;32.00;1
+88990011;Laura Pérez;25;F;Barranquilla;30;10;2024;Accesorios;Vestidos y faldas;29.99;12.00;3
+44556677;Alejandro Torres;29;M;Cartagena;18;11;2024;Ropa Casual;Playeras/T-Shirts;35.99;14.40;5
+23445566;Sofía Gutiérrez;31;F;Bogotá;12;3;2024;Camisas;Blusas;39.99;15.99;1
+77788899;Carlos Ramírez;39;M;Medellín;8;5;2024;Faldas;Pantalones;75.50;30.20;3
+99887766;Santiago Gómez;34;M;Bogotá;5;1;2024;Pantalones;Camisas;49.99;20.00;2
+88776655;Valeria Castaño;28;F;Medellín;10;3;2024;Ropa de Baño;Vestidos;89.99;36.00;1
+77665544;Pedro Morales;30;M;Cali;15;4;2024;Ropa de Verano;Pantalones;79.50;31.80;3
+66554433;Natalia Ramírez;27;F;Barranquilla;18;6;2024;Ropa de Dormir;Chamaras/Abrigos;120.99;48.40;2
+55443322;Mariana Torres;36;F;Cartagena;22;8;2024;Ropa de Trabajo;Vestidos y faldas;29.50;12.00;1
+44332211;Alejandro Martínez;39;M;Bogotá;30;10;2024;Accesorios;Ropa deportiva;75.50;30.20;4
+33221100;Diego Pérez;29;M;Medellín;12;12;2024;Ropa de Baño;Chamaras/Abrigos;150.00;60.00;1
+22110099;Camila Suárez;31;F;Cali;25;5;2024;Faldas;Faldas;45.99;18.40;3
+11009988;Juan López;32;M;Barranquilla;7;7;2024;Pantalones;Playeras/T-Shirts;35.99;14.40;5
+998877;Laura Gutiérrez;27;F;Cartagena;18;11;2024;Ropa Infantil;Blusas;39.99;15.99;2
+99887711;Luis Cárdenas;45;M;Bogotá;12;9;2024;Camisas;Pantalones;65.99;26.40;1
+88776622;Ana González;33;F;Medellín;22;3;2024;Accesorios;Chamaras/Abrigos;119.99;48.00;1
+12345670;José Morales;25;M;Bogotá;14;3;2024;Ropa Formal;Trajes y blazers;199.99;80.00;1
+22334456;Laura Castaño;29;F;Medellín;22;4;2024;Camisas;Vestidos;89.50;35.80;2
+33445567;Camila Ríos;31;F;Cali;18;5;2024;Ropa Juvenil;Blusas;39.99;15.99;1
+44556678;Santiago López;35;M;Barranquilla;12;6;2024;Trajes;Pantalones;75.99;30.40;3
+55667789;Natalia Martínez;40;F;Cartagena;7;8;2024;Abrigos;Faldas;45.99;18.40;2
+66778890;Alejandro Torres;27;M;Bogotá;10;9;2024;Deportes;Chamaras/Abrigos;150.00;60.00;1
+77889901;Diego Pérez;22;M;Medellín;20;10;2024;Trajes;Sudaderas y hoodies;55.99;22.40;4
+88990012;Mariana Gómez;33;F;Cali;25;11;2024;Shorts;Chamaras/Abrigos;120.99;48.40;1
+99001123;Valeria Ramírez;28;F;Barranquilla;7;12;2024;Deportes;Vestidos y faldas;29.99;12.00;2
+10011234;Pedro Suárez;30;M;Cartagena;12;2;2024;Ropa de Verano;Playeras/T-Shirts;35.99;14.40;3
+11012345;Laura Ríos;34;F;Bogotá;18;3;2024;Faldas;Ropa deportiva;70.99;28.40;2
+12023456;Luis Cárdenas;45;M;Medellín;5;7;2024;Ropa Formal;Pantalones;85.50;34.20;1
+11112222;Sofía Martínez;28;F;Bogotá;3;2;2024;Deportes;Vestidos;79.99;32.00;2
+33334444;Andrés López;34;M;Medellín;7;4;2024;Trajes;Pantalones;85.50;34.20;3
+55556666;Valeria Suárez;30;F;Cali;15;6;2024;Calzado;Blusas;39.99;16.00;1
+77778888;Diego Castaño;40;M;Barranquilla;22;8;2024;Abrigos;Camisas;49.50;20.00;2
+99990000;Mariana Torres;31;F;Cartagena;12;10;2024;Abrigos;Vestidos y faldas;25.99;10.40;1
+22221111;Pedro Hernández;29;M;Bogotá;18;5;2024;Ropa de Baño;Sudaderas y hoodies;60.50;24.00;4
+44443333;Camila Gómez;32;F;Medellín;10;3;2024;Ropa de Verano;Chamaras/Abrigos;119.99;48.00;1
+66665555;Luis Rodríguez;45;M;Cali;25;9;2024;Ropa Casual;Playeras/T-Shirts;35.50;14.00;5
+88887777;Natalia Pérez;26;F;Barranquilla;30;11;2024;Ropa Juvenil;Ropa deportiva;75.99;30.40;2
+1111;Alejandro Torres;27;M;Cartagena;20;7;2024;Camisas;Trajes y blazers;199.99;80.00;1
+12121212;Mariana Gutiérrez;33;F;Bogotá;5;3;2024;Shorts;Faldas;50.00;20.00;1
+34343434;Juan Ramírez;38;M;Medellín;18;6;2024;Ropa de Dormir;Chamaras/Abrigos;150.00;60.00;1
+10123456;Juan Pérez;26;M;Bogotá;5;4;2024;Deportes;Camisas;49.99;20.00;1
+10234567;Ana Ramírez;32;F;Medellín;20;6;2024;Deportes;Vestidos;89.50;35.80;2
+10345678;Pedro Hernández;41;M;Cali;15;7;2024;Ropa de Dormir;Pantalones;59.99;24.00;3
+10456789;Sofía González;28;F;Barranquilla;10;12;2024;Ropa Casual;Blusas;39.99;15.00;1
+10567890;Carlos Sánchez;35;M;Cartagena;18;3;2024;Ropa de Trabajo;Playeras/T-Shirts;29.99;12.00;4
+10678901;Lucía López;30;F;Bucaramanga;22;5;2024;Uniformes;Faldas;49.99;20.00;1
+10789012;María Cárdenas;29;F;Santa Marta;25;8;2024;Deportes;Vestidos y faldas;19.99;8.00;2
+10890123;Luis Ramírez;45;M;Manizales;12;11;2024;Vestidos;Ropa deportiva;79.99;32.00;1
+10901234;Pedro Martínez;38;M;Pereira;30;9;2024;Uniformes;Chamaras/Abrigos;119.99;48.00;1
+11012345;Ana González;27;F;Pasto;7;1;2024;Faldas;Chamaras/Abrigos;109.99;44.00;1
+11223344;Mario Gómez;29;M;Bogotá;10;3;2024;Pantalones;Camisas;54.99;22.00;2
+22334455;Laura Rodríguez;34;F;Medellín;17;5;2024;Vestidos;Vestidos;95.50;38.00;1
+33445566;Camila López;27;F;Cali;12;8;2024;Ropa Casual;Vestidos y faldas;25.99;10.50;3
+44556677;Andrés Castro;40;M;Barranquilla;20;11;2024;Abrigos;Pantalones;69.99;28.00;2
+55667788;Sara Martínez;30;F;Cartagena;5;4;2024;Trajes;Blusas;35.50;14.50;1
+66778899;Diego Gutiérrez;22;M;Bogotá;15;6;2024;Ropa de Verano;Ropa deportiva;75.99;30.00;4
+77889900;Natalia Jiménez;33;F;Medellín;8;2;2024;Pantalones;Chamaras/Abrigos;115.99;46.40;1
+88990011;Alejandro Torres;45;M;Cali;25;9;2024;Camisas;Trajes y blazers;200.00;80.00;1
+99001122;Daniela Pérez;28;F;Barranquilla;18;12;2024;Ropa de Baño;Faldas;49.99;20.00;3
+10011223;Carlos Suárez;35;M;Cartagena;13;7;2024;Pantalones;Playeras/T-Shirts;29.99;12.00;5
+12345678;Felipe Rodríguez;24;M;Bogotá;7;3;2024;Trajes;Playeras/T-Shirts;35.99;14.40;3
+87654321;Daniela Mejía;28;F;Medellín;15;5;2024;Ropa Casual;Vestidos;89.99;36.00;2
+34567890;Mateo Hernández;35;M;Cali;20;7;2024;Ropa de Baño;Pantalones;75.50;30.20;1
+98765432;Valeria Torres;31;F;Barranquilla;12;11;2024;Ropa Juvenil;Faldas;45.50;18.50;2
+45678901;Santiago López;27;M;Cartagena;10;4;2024;Vestidos;Camisas;55.99;22.40;2
+56789012;Camila García;22;F;Bogotá;8;6;2024;Ropa de Invierno;Vestidos y faldas;29.50;12.00;1
+67890123;Laura Martínez;30;F;Medellín;25;8;2024;Ropa Casual;Blusas;39.99;15.99;3
+78901234;Sebastián Ramírez;45;M;Cali;19;12;2024;Uniformes;Chamaras/Abrigos;120.00;48.00;1
+89012345;Mariana Suárez;40;F;Barranquilla;5;10;2024;Shorts;Ropa deportiva;70.50;28.20;4
+90123456;Diego González;32;M;Cartagena;14;2;2024;Ropa de Dormir;Sudaderas y hoodies;60.99;24.40;3
+11111111;Camila Ramírez;30;F;Bogotá;7;3;2024;Calzado;Vestidos;89.99;36.00;1
+11111111;Camila Ramírez;30;F;Bogotá;12;3;2024;Ropa de Invierno;Blusas;39.99;15.99;2
+22222222;Juan Pérez;35;M;Medellín;5;4;2024;Ropa de Baño;Pantalones;75.50;30.20;2
+22222222;Juan Pérez;35;M;Medellín;15;4;2024;Vestidos;Camisas;55.99;22.40;1
+22222222;Juan Pérez;35;M;Medellín;25;4;2024;Accesorios;Ropa deportiva;70.50;28.20;3
+33333333;Mariana Suárez;40;F;Cali;10;6;2024;Trajes;Faldas;45.50;18.50;1
+33333333;Mariana Suárez;40;F;Cali;22;6;2024;Accesorios;Chamaras/Abrigos;120.00;48.00;1
+44444444;Diego López;29;M;Barranquilla;3;7;2024;Ropa de Invierno;Playeras/T-Shirts;35.99;14.40;2
+44444444;Diego López;29;M;Barranquilla;12;7;2024;Camisas;Chamaras/Abrigos;150.00;60.00;1
+55555555;Natalia Torres;27;F;Cartagena;8;8;2024;Uniformes;Vestidos y faldas;29.50;12.00;1
+55555555;Natalia Torres;27;F;Cartagena;18;8;2024;Pantalones;Blusas;39.99;15.99;1
+65432100;Valeria Hernández;28;F;Bogotá;5;2;2024;Ropa Juvenil;Blusas;40.99;16.00;1
+12345009;Alejandro Gómez;34;M;Medellín;15;3;2024;Ropa Formal;Camisas;55.99;22.40;2
+98765432;Mariana López;30;F;Cali;22;4;2024;Ropa Formal;Vestidos;89.50;35.80;1
+11223344;Diego Martínez;41;M;Barranquilla;10;6;2024;Ropa Infantil;Pantalones;75.50;30.20;2
+44556677;Laura Ramírez;26;F;Cartagena;12;8;2024;Ropa Infantil;Chamaras/Abrigos;120.00;48.00;1
+55667788;Camila Torres;29;F;Bogotá;18;10;2024;Ropa de Invierno;Vestidos y faldas;29.50;12.00;1
+66778899;Pedro García;39;M;Medellín;8;11;2024;Ropa de Trabajo;Ropa deportiva;70.50;28.20;3
+77889900;Valentina Pérez;31;F;Cali;25;9;2024;Camisas;Faldas;49.99;20.00;2
+33445566;Sebastián Suárez;45;M;Barranquilla;30;12;2024;Ropa de Verano;Playeras/T-Shirts;35.99;14.40;4
+88990011;Daniela Rodríguez;27;F;Cartagena;7;7;2024;Shorts;Blusas;39.99;15.99;3
+77788899;Andrés Rodríguez;32;M;Bogotá;3;2;2024;Calzado;Trajes y blazers;199.99;80.00;1
+55566677;Valeria Hernández;27;F;Medellín;10;4;2024;Ropa de Verano;Chamaras/Abrigos;120.50;48.20;2
+12344321;Alejandro López;40;M;Cali;18;6;2024;Ropa de Trabajo;Pantalones;69.50;27.80;3
+88899900;Natalia Ramírez;30;F;Barranquilla;25;7;2024;Ropa de Baño;Vestidos;95.99;38.40;1
+11234455;Camila Torres;33;F;Cartagena;15;3;2024;Faldas;Faldas;45.99;18.40;2
+66778899;Pedro Suárez;41;M;Bogotá;7;5;2024;Accesorios;Sudaderas y hoodies;59.99;24.00;4
+33445566;Diego Martínez;28;M;Medellín;20;8;2024;Trajes;Camisas;55.50;22.20;2
+55667788;Mariana López;36;F;Cali;12;9;2024;Ropa de Invierno;Ropa deportiva;80.00;32.00;1
+88990011;Laura Pérez;25;F;Barranquilla;30;10;2024;Ropa de Trabajo;Vestidos y faldas;29.99;12.00;3
+44556677;Alejandro Torres;29;M;Cartagena;18;11;2024;Ropa de Verano;Playeras/T-Shirts;35.99;14.40;5
+23445566;Sofía Gutiérrez;31;F;Bogotá;12;3;2024;Ropa Juvenil;Blusas;39.99;15.99;1
+77788899;Carlos Ramírez;39;M;Medellín;8;5;2024;Faldas;Pantalones;75.50;30.20;3
+99887766;Santiago Gómez;34;M;Bogotá;5;1;2024;Shorts;Camisas;49.99;20.00;2
+88776655;Valeria Castaño;28;F;Medellín;10;3;2024;Calzado;Vestidos;89.99;36.00;1
+77665544;Pedro Morales;30;M;Cali;15;4;2024;Ropa Juvenil;Pantalones;79.50;31.80;3
+66554433;Natalia Ramírez;27;F;Barranquilla;18;6;2024;Ropa de Baño;Chamaras/Abrigos;120.99;48.40;2
+55443322;Mariana Torres;36;F;Cartagena;22;8;2024;Ropa de Verano;Vestidos y faldas;29.50;12.00;1
+44332211;Alejandro Martínez;39;M;Bogotá;30;10;2024;Uniformes;Ropa deportiva;75.50;30.20;4
+33221100;Diego Pérez;29;M;Medellín;12;12;2024;Shorts;Chamaras/Abrigos;150.00;60.00;1
+22110099;Camila Suárez;31;F;Cali;25;5;2024;Ropa Formal;Faldas;45.99;18.40;3
+11009988;Juan López;32;M;Barranquilla;7;7;2024;Abrigos;Playeras/T-Shirts;35.99;14.40;5
+998877;Laura Gutiérrez;27;F;Cartagena;18;11;2024;Ropa de Baño;Blusas;39.99;15.99;2
+99887711;Luis Cárdenas;45;M;Bogotá;12;9;2024;Camisas;Pantalones;65.99;26.40;1
+88776622;Ana González;33;F;Medellín;22;3;2024;Deportes;Chamaras/Abrigos;119.99;48.00;1
+12345670;José Morales;25;M;Bogotá;14;3;2024;Ropa de Invierno;Trajes y blazers;199.99;80.00;1
+22334456;Laura Castaño;29;F;Medellín;22;4;2024;Ropa Juvenil;Vestidos;89.50;35.80;2
+33445567;Camila Ríos;31;F;Cali;18;5;2024;Shorts;Blusas;39.99;15.99;1
+44556678;Santiago López;35;M;Barranquilla;12;6;2024;Abrigos;Pantalones;75.99;30.40;3
+55667789;Natalia Martínez;40;F;Cartagena;7;8;2024;Ropa Formal;Faldas;45.99;18.40;2
+66778890;Alejandro Torres;27;M;Bogotá;10;9;2024;Pantalones;Chamaras/Abrigos;150.00;60.00;1
+77889901;Diego Pérez;22;M;Medellín;20;10;2024;Camisas;Sudaderas y hoodies;55.99;22.40;4
+88990012;Mariana Gómez;33;F;Cali;25;11;2024;Pantalones;Chamaras/Abrigos;120.99;48.40;1
+99001123;Valeria Ramírez;28;F;Barranquilla;7;12;2024;Camisas;Vestidos y faldas;29.99;12.00;2
+10011234;Pedro Suárez;30;M;Cartagena;12;2;2024;Ropa Infantil;Playeras/T-Shirts;35.99;14.40;3
+11012345;Laura Ríos;34;F;Bogotá;18;3;2024;Faldas;Ropa deportiva;70.99;28.40;2
+12023456;Luis Cárdenas;45;M;Medellín;5;7;2024;Uniformes;Pantalones;85.50;34.20;1
+11112222;Sofía Martínez;28;F;Bogotá;3;2;2024;Ropa Juvenil;Vestidos;79.99;32.00;2
+33334444;Andrés López;34;M;Medellín;7;4;2024;Abrigos;Pantalones;85.50;34.20;3
+55556666;Valeria Suárez;30;F;Cali;15;6;2024;Shorts;Blusas;39.99;16.00;1
+77778888;Diego Castaño;40;M;Barranquilla;22;8;2024;Ropa Juvenil;Camisas;49.50;20.00;2
+99990000;Mariana Torres;31;F;Cartagena;12;10;2024;Ropa Juvenil;Vestidos y faldas;25.99;10.40;1
+22221111;Pedro Hernández;29;M;Bogotá;18;5;2024;Ropa Juvenil;Sudaderas y hoodies;60.50;24.00;4
+44443333;Camila Gómez;32;F;Medellín;10;3;2024;Ropa de Baño;Chamaras/Abrigos;119.99;48.00;1
+66665555;Luis Rodríguez;45;M;Cali;25;9;2024;Trajes;Playeras/T-Shirts;35.50;14.00;5
+88887777;Natalia Pérez;26;F;Barranquilla;30;11;2024;Accesorios;Ropa deportiva;75.99;30.40;2
+1111;Alejandro Torres;27;M;Cartagena;20;7;2024;Trajes;Trajes y blazers;199.99;80.00;1
+12121212;Mariana Gutiérrez;33;F;Bogotá;5;3;2024;Ropa de Invierno;Faldas;50.00;20.00;1
+34343434;Juan Ramírez;38;M;Medellín;18;6;2024;Ropa de Dormir;Chamaras/Abrigos;150.00;60.00;1
+93142577;Gabriela Peña;62;;Cartagena;7;7;2024;Trajes;Chamaras/Abrigos;39.99;15.99;3
+6144248;Carolina Ríos;54;;Bogotá;3;2;2024;Calzado;Vestidos y faldas;199.99;80.00;1
+39948662;Hugo López;53;;Medellín;10;4;2024;Camisas;Ropa deportiva;120.50;48.20;2
+76827868;Daniela Herrera;42;;Cali;18;6;2024;Ropa Juvenil;Chamaras/Abrigos;69.50;27.80;3
+1349498;Roberto Nuñez;58;;Barranquilla;25;7;2024;Ropa de Invierno;Faldas;95.99;38.40;1
+20255490;Javier Mora;55;;Cartagena;15;3;2024;Ropa de Dormir;Playeras/T-Shirts;45.99;18.40;2
+9869054;Ana Beltrán;57;;Bogotá;7;5;2024;Ropa de Baño;Blusas;59.99;24.00;4
+69894649;Carmen Vargas;44;;Medellín;20;8;2024;Ropa de Dormir;Pantalones;55.50;22.20;2
+58114480;Andrés Mendoza;60;;Cali;12;9;2024;Shorts;Chamaras/Abrigos;80.00;32.00;1
+71157476;Ricardo Soto;20;;Barranquilla;30;10;2024;Shorts;Trajes y blazers;29.99;12.00;3
+4054697;Marcela Giraldo;42;;Cartagena;18;11;2024;Ropa Infantil;Vestidos;35.99;14.40;5
+79442904;Adriana Castro;29;;Bogotá;12;3;2024;Shorts;Blusas;39.99;15.99;1
+17387351;Adriana Castro;38;;Medellín;8;5;2024;Ropa Casual;Pantalones;75.50;30.20;3
+12941056;Luisa Jiménez;45;;Bogotá;5;1;2024;Calzado;Faldas;49.99;20.00;2
+16151564;Roberto Nuñez;59;;Medellín;10;3;2024;Abrigos;Chamaras/Abrigos;89.99;36.00;1
+22192405;Andrés Mendoza;67;;Cali;15;4;2024;Ropa Casual;Sudaderas y hoodies;79.50;31.80;3
+71362173;Carmen Vargas;24;;Barranquilla;18;6;2024;Ropa de Verano;Chamaras/Abrigos;120.99;48.40;2
+27217980;Oscar Ramírez;32;;Cartagena;22;8;2024;Calzado;Vestidos y faldas;29.50;12.00;1
+53605131;Adriana Castro;24;;Bogotá;30;10;2024;Pantalones;Playeras/T-Shirts;75.50;30.20;4
+44967741;Isabel Fernández;62;;Medellín;12;12;2024;Abrigos;Ropa deportiva;150.00;60.00;1
+56701135;Carolina Ríos;66;;Cali;25;5;2024;Accesorios;Pantalones;45.99;18.40;3
+74027976;Carlos Ruiz;59;;Barranquilla;7;7;2024;Ropa Casual;Vestidos;35.99;14.40;5
+5250315;Hugo López;35;;Cartagena;18;11;2024;Accesorios;Pantalones;39.99;15.99;2
+86112239;Diego Morales;26;;Bogotá;12;9;2024;Trajes;Blusas;65.99;26.40;1
+55024137;Andrés Mendoza;54;;Medellín;22;3;2024;Ropa de Trabajo;Camisas;119.99;48.00;1
+45587299;Sergio Castro;34;;Bogotá;14;3;2024;Ropa de Dormir;Vestidos y faldas;199.99;80.00;1
+94567593;Isabel Fernández;20;;Medellín;22;4;2024;Shorts;Sudaderas y hoodies;89.50;35.80;2
+39106407;Isabel Fernández;54;;Cali;18;5;2024;Trajes;Chamaras/Abrigos;39.99;15.99;1
+74893164;Hugo López;60;;Barranquilla;12;6;2024;Uniformes;Playeras/T-Shirts;75.99;30.40;3
+95095680;Isabel Fernández;57;;Cartagena;7;8;2024;Ropa de Invierno;Ropa deportiva;45.99;18.40;2
+75121247;Valentina Díaz;63;;Bogotá;10;9;2024;Camisas;Trajes y blazers;150.00;60.00;1
+81954023;Valentina Díaz;50;;Medellín;20;10;2024;Ropa Juvenil;Faldas;55.99;22.40;4
+71607615;Marcela Giraldo;28;;Cali;25;11;2024;Uniformes;Chamaras/Abrigos;120.99;48.40;1
+38563054;Carmen Vargas;18;;Barranquilla;7;12;2024;Shorts;Chamaras/Abrigos;29.99;12.00;2
+36232475;Marcela Giraldo;23;;Cartagena;12;2;2024;Trajes;Vestidos y faldas;35.99;14.40;3
+43438124;Javier Mora;24;;Bogotá;18;3;2024;Faldas;Ropa deportiva;70.99;28.40;2
+26098421;Luisa Jiménez;53;;Medellín;5;7;2024;Trajes;Chamaras/Abrigos;85.50;34.20;1
+44173147;Sergio Castro;68;;Bogotá;3;2;2024;Deportes;Faldas;79.99;32.00;2
+42608365;Sergio Castro;26;;Medellín;7;4;2024;Shorts;Playeras/T-Shirts;85.50;34.20;3
+59131440;Ana Beltrán;41;;Cali;15;6;2024;Ropa de Invierno;Blusas;39.99;16.00;1
+72712339;Diego Morales;61;;Barranquilla;22;8;2024;Faldas;Pantalones;49.50;20.00;2
+40594254;Hugo López;23;;Cartagena;12;10;2024;Ropa Infantil;Chamaras/Abrigos;25.99;10.40;1
+35139744;Marcela Giraldo;46;;Bogotá;18;5;2024;Camisas;Trajes y blazers;60.50;24.00;4
+45754614;Marcela Giraldo;64;;Medellín;10;3;2024;Ropa de Invierno;Vestidos;119.99;48.00;1
+50501518;Diego Morales;25;;Cali;25;9;2024;Calzado;Blusas;35.50;14.00;5
+29971498;Carolina Ríos;44;;Barranquilla;30;11;2024;Camisas;Pantalones;75.99;30.40;2
+69058156;Javier Mora;44;;Cartagena;20;7;2024;Ropa de Invierno;Faldas;199.99;80.00;1
+72869959;Valentina Díaz;30;;Bogotá;5;3;2024;Abrigos;Chamaras/Abrigos;50.00;20.00;1
+48838574;Ricardo Soto;65;;Medellín;18;6;2024;Camisas;Sudaderas y hoodies;150.00;60.00;1
